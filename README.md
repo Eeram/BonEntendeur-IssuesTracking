@@ -1,2 +1,2 @@
 # BonEntendeur-IssuesTracking
-Post any issue you encounter on this repo
+If you encounter any bug on the Bon Entendeur Android app, you can share them <a ref="https://github.com/Vieuma/BonEntendeur-IssuesTracking/issues">here</a>.
